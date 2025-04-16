@@ -26,7 +26,7 @@
         "temperature": "0.9"
       },
       {
-        "radek": 1,
+        "radek": 2,
         "typ": "fix",
         "tlaciko": "Úvod fix",
         "promt": "Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂",
@@ -42,7 +42,7 @@
         "temperature": "0.9"
       },
       {
-        "radek": 2,
+        "radek": 3,
         "typ": "prompt",
         "tlaciko": "Zpráva flirt",
         "promt": "Vytvoř odpověď se silně sexuálním podtextem",
