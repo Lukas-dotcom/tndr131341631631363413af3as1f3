@@ -60,7 +60,7 @@
         "tlaciko": "Připomínka",
         "typ": "fix",
         "conversationKontext": 20,
-        "promt": "Hádám, že ty palačinky budu muset sníst sám",
+        "promt": "Vytvoř odpověď na poslední zprávu od slečny na Tindru se silně sexuálním podtextem. [Toto jsou poslední zprávy naší konverzace od nejstarší po nejnovější (conversation)]. [Slečna hledá (preference)]. [Informace, které o sobě slečna napsala (aboutHer)]. [Toto jsou zájmy slečny (interests)]. Pokud se to hodí zkus záměrně mylně interpretovat, aby vzniklo něco vtipného.",
         "model": "gpt-4o",
         "temperature": "0.9"
       },
