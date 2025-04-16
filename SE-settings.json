@@ -32,7 +32,7 @@
         "radek": 2,
         "tlaciko": "Úvod fix",
         "typ": "fix",
-        "conversationContext": 20,
+        "conversationContext": null,
         "promt": "Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂",
         "model": "gpt-4-turbo",
         "temperature": "0.7"
