@@ -15,7 +15,7 @@
         "tlaciko": "Úvod ",
         "typ": "ai",
         "conversationContext": 10,
-        "promt": "Vytvoř první zprávu na Tinder. Něco ve stylu: Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂. [Slečna hledá {preference)]. [Informace, které o sobě slečna napsala {aboutHer)]. [Toto jsou zájmy slečny {interests)]. Snaž se být originální a vtipný. Snaž se držet přibližně do 120 znaků.",
+        "promt": "Vytvoř první zprávu na Tinder. Něco ve stylu: Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂. [Slečna hledá {preference}]. [Informace, které o sobě slečna napsala {aboutHer}]. [Toto jsou zájmy slečny {interests}]. Snaž se být originální a vtipný. Snaž se držet přibližně do 120 znaků.",
         "model": "gpt-4-turbo",
         "temperature": "0.7"
       },
@@ -24,7 +24,7 @@
         "tlaciko": "Úvod flirt",
         "typ": "ai",
         "conversationContext": 20,
-        "promt": "Vytvoř vtipný a originální otvírák na Tindru se silně sexuálním podtextem.  [Informace, které o sobě slečna napsala {aboutHer)]. [Toto jsou zájmy slečny {interests)]. Snaž se držet přibližně do 120 znaků.",
+        "promt": "Vytvoř vtipný a originální otvírák na Tindru se silně sexuálním podtextem.  [Informace, které o sobě slečna napsala {aboutHer}]. [Toto jsou zájmy slečny {interests}]. Snaž se držet přibližně do 120 znaků.",
         "model": "gpt-4o",
         "temperature": "0.9"
       },
@@ -42,7 +42,7 @@
         "tlaciko": "Zpráva",
         "typ": "ai",
         "conversationContext": 20,
-        "promt": "Vytvoř odpověď na poslední zprávu od slečny na Tindru. [Toto jsou poslední zprávy naší konverzace od nejstarší po nejnovější {conversation)]. [Slečna hledá {preference)]. [Informace, které o sobě slečna napsala {aboutHer)]. [Toto jsou zájmy slečny {interests)]. Pokud se to hodí zkus záměrně mylně interpretovat, aby vzniklo něco vtipného.",
+        "promt": "Vytvoř odpověď na poslední zprávu od slečny na Tindru. [Toto jsou poslední zprávy naší konverzace od nejstarší po nejnovější {conversation}]. [Slečna hledá {preference}]. [Informace, které o sobě slečna napsala {aboutHer}]. [Toto jsou zájmy slečny {interests}]. Pokud se to hodí zkus záměrně mylně interpretovat, aby vzniklo něco vtipného.",
         "model": "gpt-4o",
         "temperature": "0.9"
       },
@@ -60,7 +60,7 @@
         "tlaciko": "Připomínka",
         "typ": "fix",
         "conversationContext": 20,
-        "promt": "Vytvoř odpověď na poslední zprávu od slečny na Tindru se silně sexuálním podtextem. [Toto jsou poslední zprávy naší konverzace od nejstarší po nejnovější {conversation)]. [Slečna hledá {preference)]. [Informace, které o sobě slečna napsala {aboutHer)]. [Toto jsou zájmy slečny {interests)]. Pokud se to hodí zkus záměrně mylně interpretovat, aby vzniklo něco vtipného.",
+        "promt": "Vytvoř odpověď na poslední zprávu od slečny na Tindru se silně sexuálním podtextem. [Toto jsou poslední zprávy naší konverzace od nejstarší po nejnovější {conversation}]. [Slečna hledá {preference}]. [Informace, které o sobě slečna napsala {aboutHer}]. [Toto jsou zájmy slečny {interests}]. Pokud se to hodí zkus záměrně mylně interpretovat, aby vzniklo něco vtipného.",
         "model": "gpt-4o",
         "temperature": "0.9"
       }
