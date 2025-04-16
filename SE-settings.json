@@ -24,7 +24,7 @@
         "tlaciko": "Úvod flirt",
         "typ": "prompt",
         "conversationKontext": 20,
-        "promt": "Vytvoř vtipný a originální otvírák se silně sexuálním podtextem.",
+        "promt": "Vytvoř vtipný a originální otvírák na Tindru se silně sexuálním podtextem.  [Informace, které o sobě slečna napsala (aboutHer)]. [Toto jsou zájmy slečny (interests)]. Snaž se držet přibližně do 120 znaků.",
         "model": "gpt-4o",
         "temperature": "0.9"
       },
