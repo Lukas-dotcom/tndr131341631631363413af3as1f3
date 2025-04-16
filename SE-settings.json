@@ -13,7 +13,7 @@
       {
         "radek": 1,
         "tlaciko": "Úvod ",
-        "typ": "prompt",
+        "typ": "ai",
         "conversationKontext": 10,
         "promt": "Vytvoř první zprávu na Tinder. Něco ve stylu: Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂. [Slečna hledá (preference)]. [Informace, které o sobě slečna napsala (aboutHer)]. [Toto jsou zájmy slečny (interests)]. Snaž se být originální a vtipný. Snaž se držet přibližně do 120 znaků.",
         "model": "gpt-4-turbo",
