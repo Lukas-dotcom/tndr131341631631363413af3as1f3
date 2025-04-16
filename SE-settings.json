@@ -21,7 +21,7 @@
       },
       {
         "radek": 1,
-        "kontext": null,
+        "kontext": 20,
         "typ": "prompt",
         "tlaciko": "Úvod flirt",
         "promt": "Vytvoř vtipný a originální otvírák se silně sexuálním podtextem.",
