@@ -70,8 +70,8 @@
         "typ": "ai",
         "conversationContext": 20,
         "promt": "Vytvoř odpověď na poslední zprávu od slečny na Tindru. Obsahem odpovědi by mělo být v bodech: [<textArea>] [Toto jsou poslední zprávy naší konverzace od nejstarší po nejnovější <conversation>]. [Slečna hledá <preference>]. [Informace, které o sobě slečna napsala <aboutHer>]. [Toto jsou zájmy slečny <interests>].",
-        "model": null,
-        "temperature": null
+        "model": "gpt-4o",
+        "temperature": "0.9"
       }
     ]
   }
