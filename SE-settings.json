@@ -110,6 +110,15 @@
         "promt": "BasicFacts",
         "model": null,
         "temperature": null
+      },
+      {
+        "radek": null,
+        "tlaciko": null,
+        "typ": null,
+        "kontext": null,
+        "promt": "MoreAbout",
+        "model": null,
+        "temperature": null
       }
     ]
   }
