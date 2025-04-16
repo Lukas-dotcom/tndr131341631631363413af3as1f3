@@ -12,7 +12,7 @@
     "rules": [
       {
         "radek": 1,
-        "kontext": null,
+        "kontext": 10,
         "typ": "prompt",
         "tlaciko": "Úvod ",
         "promt": "Vytvoř první zprávu na tinder. Něco ve stylu: Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂",
