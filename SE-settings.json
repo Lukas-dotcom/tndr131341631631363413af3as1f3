@@ -101,6 +101,15 @@
         "promt": "aboutHer",
         "model": null,
         "temperature": null
+      },
+      {
+        "radek": null,
+        "tlaciko": null,
+        "typ": null,
+        "kontext": null,
+        "promt": "BasicFacts",
+        "model": null,
+        "temperature": null
       }
     ]
   }
