@@ -67,7 +67,7 @@
       {
         "radek": 3,
         "tlaciko": "vlastní",
-        "typ": null,
+        "typ": "ai",
         "conversationContext": null,
         "promt": null,
         "model": null,
