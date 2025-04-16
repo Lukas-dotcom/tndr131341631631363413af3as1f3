@@ -22,7 +22,7 @@
       {
         "radek": 1,
         "tlaciko": "Úvod flirt",
-        "typ": "prompt",
+        "typ": "ai",
         "conversationKontext": 20,
         "promt": "Vytvoř vtipný a originální otvírák na Tindru se silně sexuálním podtextem.  [Informace, které o sobě slečna napsala (aboutHer)]. [Toto jsou zájmy slečny (interests)]. Snaž se držet přibližně do 120 znaků.",
         "model": "gpt-4o",
@@ -40,7 +40,7 @@
       {
         "radek": 2,
         "tlaciko": "Zpráva",
-        "typ": "prompt",
+        "typ": "ai",
         "conversationKontext": 20,
         "promt": "Vytvoř odpověď na poslední zprávu od slečny na Tindru. [Toto jsou poslední zprávy naší konverzace od nejstarší po nejnovější (conversation)]. [Slečna hledá (preference)]. [Informace, které o sobě slečna napsala (aboutHer)]. [Toto jsou zájmy slečny (interests)]. Pokud se to hodí zkus záměrně mylně interpretovat, aby vzniklo něco vtipného.",
         "model": "gpt-4o",
@@ -49,7 +49,7 @@
       {
         "radek": 3,
         "tlaciko": "Zpráva flirt",
-        "typ": "prompt",
+        "typ": "ai",
         "conversationKontext": 20,
         "promt": "Vytvoř odpověď se silně sexuálním podtextem",
         "model": "gpt-4-turbo",
