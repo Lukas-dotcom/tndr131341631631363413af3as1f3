@@ -60,7 +60,7 @@
         "tlaciko": "Připomínka",
         "typ": "fix",
         "conversationContext": 20,
-        "promt": "Hádám, že ty palačinky budu muset sníst sám.",
+        "promt": "Hádám, že ty palačinky budu muset sníst sám. 🤔",
         "model": "gpt-4o",
         "temperature": "0.9"
       },
