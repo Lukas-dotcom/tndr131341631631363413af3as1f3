@@ -4,7 +4,7 @@
       "radek",
       "tlaciko",
       "typ",
-      "kontext",
+      "conversationKontext",
       "promt",
       "model",
       "temperature"
@@ -14,7 +14,7 @@
         "radek": 1,
         "tlaciko": "Úvod ",
         "typ": "prompt",
-        "kontext": 10,
+        "conversationKontext": 10,
         "promt": "Vytvoř první zprávu na tinder. Něco ve stylu: Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂",
         "model": "gpt-4-turbo",
         "temperature": "0.7"
@@ -23,7 +23,7 @@
         "radek": 1,
         "tlaciko": "Úvod flirt",
         "typ": "prompt",
-        "kontext": 20,
+        "conversationKontext": 20,
         "promt": "Vytvoř vtipný a originální otvírák se silně sexuálním podtextem.",
         "model": "gpt-4o",
         "temperature": "0.9"
@@ -32,7 +32,7 @@
         "radek": 2,
         "tlaciko": "Úvod fix",
         "typ": "fix",
-        "kontext": 20,
+        "conversationKontext": 20,
         "promt": "Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂",
         "model": "gpt-4-turbo",
         "temperature": "0.7"
@@ -41,7 +41,7 @@
         "radek": 2,
         "tlaciko": "Zpráva",
         "typ": "prompt",
-        "kontext": 20,
+        "conversationKontext": 20,
         "promt": "Vytvoř odpověď. Pokud se to hodí zkus záměrně mylně interpretovat, aby vzniklo něco vtipného.",
         "model": "gpt-4o",
         "temperature": "0.9"
@@ -50,7 +50,7 @@
         "radek": 3,
         "tlaciko": "Zpráva flirt",
         "typ": "prompt",
-        "kontext": 20,
+        "conversationKontext": 20,
         "promt": "Vytvoř odpověď se silně sexuálním podtextem",
         "model": "gpt-4-turbo",
         "temperature": "0.7"
@@ -59,7 +59,7 @@
         "radek": 3,
         "tlaciko": "Připomínka",
         "typ": "fix",
-        "kontext": 20,
+        "conversationKontext": 20,
         "promt": "Hádám, že ty palačinky budu muset sníst sám",
         "model": "gpt-4o",
         "temperature": "0.9"
@@ -68,7 +68,7 @@
         "radek": null,
         "tlaciko": null,
         "typ": null,
-        "kontext": null,
+        "conversationKontext": null,
         "promt": "Vytvoř odpověď na poslední zprávu se slečnou od slečny na Tindru. [Toto jsou poslední zprávy naší konverzace (conversation)]. [Slečna hledá (preference)]. [Informace, které o sobě slečna napsala (aboutHer)]. [Toto jsou zájmy slečny (interests)]. Pokud se to hodí zkus záměrně mylně interpretovat, aby vzniklo něco vtipného.",
         "model": null,
         "temperature": null
@@ -77,7 +77,7 @@
         "radek": null,
         "tlaciko": null,
         "typ": null,
-        "kontext": null,
+        "conversationKontext": null,
         "promt": "conversation",
         "model": null,
         "temperature": null
@@ -86,7 +86,7 @@
         "radek": null,
         "tlaciko": null,
         "typ": null,
-        "kontext": null,
+        "conversationKontext": null,
         "promt": "preference",
         "model": null,
         "temperature": null
@@ -95,7 +95,7 @@
         "radek": null,
         "tlaciko": null,
         "typ": null,
-        "kontext": null,
+        "conversationKontext": null,
         "promt": "aboutHer",
         "model": null,
         "temperature": null
@@ -104,7 +104,7 @@
         "radek": null,
         "tlaciko": null,
         "typ": null,
-        "kontext": null,
+        "conversationKontext": null,
         "promt": "BasicFacts",
         "model": null,
         "temperature": null
@@ -113,7 +113,7 @@
         "radek": null,
         "tlaciko": null,
         "typ": null,
-        "kontext": null,
+        "conversationKontext": null,
         "promt": "MoreAbout",
         "model": null,
         "temperature": null
@@ -122,7 +122,7 @@
         "radek": null,
         "tlaciko": null,
         "typ": null,
-        "kontext": null,
+        "conversationKontext": null,
         "promt": "lifeStyle",
         "model": null,
         "temperature": null
@@ -131,7 +131,7 @@
         "radek": null,
         "tlaciko": null,
         "typ": null,
-        "kontext": null,
+        "conversationKontext": null,
         "promt": "interests",
         "model": null,
         "temperature": null
