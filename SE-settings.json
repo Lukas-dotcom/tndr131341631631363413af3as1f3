@@ -50,7 +50,7 @@
         "radek": 3,
         "tlaciko": "Zpráva flirt",
         "typ": "ai",
-        "conversationContext": 20,
+        "conversationContext": 25,
         "promt": "Vytvoř odpověď na poslední zprávu od slečny na Tindru se silně sexuálním podtextem. [Toto jsou poslední zprávy naší konverzace od nejstarší po nejnovější <conversation>]. [Slečna hledá <preference>]. [Informace, které o sobě slečna napsala <aboutHer>]. [Toto jsou zájmy slečny <interests>]. Pokud se to hodí zkus záměrně mylně interpretovat, aby vzniklo něco vtipného.",
         "model": "gpt-4-turbo",
         "temperature": "0.7"
@@ -69,7 +69,7 @@
         "tlaciko": "vlastní",
         "typ": "ai",
         "conversationContext": null,
-        "promt": null,
+        "promt": "Vytvoř odpověď na poslední zprávu od slečny na Tindru. Obsahem odpovědi by mělo být v bodech: [<textArea>] [Toto jsou poslední zprávy naší konverzace od nejstarší po nejnovější <conversation>]. [Slečna hledá <preference>]. [Informace, které o sobě slečna napsala <aboutHer>]. [Toto jsou zájmy slečny <interests>].",
         "model": null,
         "temperature": null
       }
