@@ -30,7 +30,7 @@
       },
       {
         "radek": 2,
-        "kontext": null,
+        "kontext": 20,
         "typ": "fix",
         "tlaciko": "Úvod fix",
         "promt": "Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂",
@@ -39,7 +39,7 @@
       },
       {
         "radek": 2,
-        "kontext": null,
+        "kontext": 20,
         "typ": "prompt",
         "tlaciko": "Zpráva",
         "promt": "Vytvoř odpověď. Pokud se to hodí zkus záměrně mylně interpretovat, aby vzniklo něco vtipného.",
@@ -48,7 +48,7 @@
       },
       {
         "radek": 3,
-        "kontext": null,
+        "kontext": 20,
         "typ": "prompt",
         "tlaciko": "Zpráva flirt",
         "promt": "Vytvoř odpověď se silně sexuálním podtextem",
@@ -57,7 +57,7 @@
       },
       {
         "radek": 3,
-        "kontext": null,
+        "kontext": 20,
         "typ": "fix",
         "tlaciko": "Připomínka",
         "promt": "Hádám, že ty palačinky budu muset sníst sám",
