@@ -5,7 +5,6 @@
       "tlaciko",
       "typ",
       "kontext",
-      "promptSource",
       "promt",
       "model",
       "temperature"
@@ -16,7 +15,6 @@
         "tlaciko": "Úvod ",
         "typ": "prompt",
         "kontext": 10,
-        "promptSource": null,
         "promt": "Vytvoř první zprávu na tinder. Něco ve stylu: Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂",
         "model": "gpt-4-turbo",
         "temperature": "0.7"
@@ -26,7 +24,6 @@
         "tlaciko": "Úvod flirt",
         "typ": "prompt",
         "kontext": 20,
-        "promptSource": null,
         "promt": "Vytvoř vtipný a originální otvírák se silně sexuálním podtextem.",
         "model": "gpt-4o",
         "temperature": "0.9"
@@ -36,7 +33,6 @@
         "tlaciko": "Úvod fix",
         "typ": "fix",
         "kontext": 20,
-        "promptSource": null,
         "promt": "Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂",
         "model": "gpt-4-turbo",
         "temperature": "0.7"
@@ -46,7 +42,6 @@
         "tlaciko": "Zpráva",
         "typ": "prompt",
         "kontext": 20,
-        "promptSource": null,
         "promt": "Vytvoř odpověď. Pokud se to hodí zkus záměrně mylně interpretovat, aby vzniklo něco vtipného.",
         "model": "gpt-4o",
         "temperature": "0.9"
@@ -56,7 +51,6 @@
         "tlaciko": "Zpráva flirt",
         "typ": "prompt",
         "kontext": 20,
-        "promptSource": null,
         "promt": "Vytvoř odpověď se silně sexuálním podtextem",
         "model": "gpt-4-turbo",
         "temperature": "0.7"
@@ -66,10 +60,20 @@
         "tlaciko": "Připomínka",
         "typ": "fix",
         "kontext": 20,
-        "promptSource": null,
         "promt": "Hádám, že ty palačinky budu muset sníst sám",
         "model": "gpt-4o",
         "temperature": "0.9"
+      },
+      {
+        "radek": null,
+        "tlaciko": null,
+        "typ": null,
+        "kontext": null,
+        "promt": [
+          "Toto je poslední zprávy naší konverzace(conversation)"
+        ],
+        "model": null,
+        "temperature": null
       }
     ]
   }
