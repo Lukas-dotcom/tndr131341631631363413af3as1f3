@@ -119,6 +119,15 @@
         "promt": "MoreAbout",
         "model": null,
         "temperature": null
+      },
+      {
+        "radek": null,
+        "tlaciko": null,
+        "typ": null,
+        "kontext": null,
+        "promt": "lifeStyle",
+        "model": null,
+        "temperature": null
       }
     ]
   }
