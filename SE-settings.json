@@ -2,6 +2,7 @@
   "Tinder": {
     "columns": [
       "radek",
+      "kontext",
       "typ",
       "tlaciko",
       "promt",
@@ -11,6 +12,7 @@
     "rules": [
       {
         "radek": 1,
+        "kontext": null,
         "typ": "prompt",
         "tlaciko": "Úvod ",
         "promt": "Vytvoř první zprávu na tinder. Něco ve stylu: Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂",
@@ -19,6 +21,7 @@
       },
       {
         "radek": 1,
+        "kontext": null,
         "typ": "prompt",
         "tlaciko": "Úvod flirt",
         "promt": "Vytvoř vtipný a originální otvírák se silně sexuálním podtextem.",
@@ -27,6 +30,7 @@
       },
       {
         "radek": 2,
+        "kontext": null,
         "typ": "fix",
         "tlaciko": "Úvod fix",
         "promt": "Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂",
@@ -35,6 +39,7 @@
       },
       {
         "radek": 2,
+        "kontext": null,
         "typ": "prompt",
         "tlaciko": "Zpráva",
         "promt": "Vytvoř odpověď. Pokud se to hodí zkus záměrně mylně interpretovat, aby vzniklo něco vtipného.",
@@ -43,6 +48,7 @@
       },
       {
         "radek": 3,
+        "kontext": null,
         "typ": "prompt",
         "tlaciko": "Zpráva flirt",
         "promt": "Vytvoř odpověď se silně sexuálním podtextem",
@@ -51,6 +57,7 @@
       },
       {
         "radek": 3,
+        "kontext": null,
         "typ": "fix",
         "tlaciko": "Připomínka",
         "promt": "Hádám, že ty palačinky budu muset sníst sám",
