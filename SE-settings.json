@@ -74,6 +74,15 @@
         ],
         "model": null,
         "temperature": null
+      },
+      {
+        "radek": null,
+        "tlaciko": null,
+        "typ": null,
+        "kontext": null,
+        "promt": "conversation",
+        "model": null,
+        "temperature": null
       }
     ]
   }
