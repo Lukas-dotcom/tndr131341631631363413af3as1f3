@@ -69,7 +69,7 @@
         "tlaciko": null,
         "typ": null,
         "conversationKontext": null,
-        "promt": "Vytvoř odpověď na poslední zprávu se slečnou od slečny na Tindru. [Toto jsou poslední zprávy naší konverzace (conversation)]. [Slečna hledá (preference)]. [Informace, které o sobě slečna napsala (aboutHer)]. [Toto jsou zájmy slečny (interests)]. Pokud se to hodí zkus záměrně mylně interpretovat, aby vzniklo něco vtipného.",
+        "promt": "Vytvoř odpověď na poslední zprávu od slečny na Tindru. [Toto jsou poslední zprávy naší konverzace od nejstarší po nejnovější (conversation)]. [Slečna hledá (preference)]. [Informace, které o sobě slečna napsala (aboutHer)]. [Toto jsou zájmy slečny (interests)]. Pokud se to hodí zkus záměrně mylně interpretovat, aby vzniklo něco vtipného.",
         "model": null,
         "temperature": null
       },
