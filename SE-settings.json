@@ -69,9 +69,7 @@
         "tlaciko": null,
         "typ": null,
         "kontext": null,
-        "promt": [
-          "Toto je poslední zprávy naší konverzace(conversation)"
-        ],
+        "promt": "[Toto jsou poslední zprávy naší konverzace (conversation)]. [Slečna hledá (preference)]. [Slečna hledá (preference)]. [Informace o slečně (aboutHer)]. ",
         "model": null,
         "temperature": null
       },
