@@ -35,7 +35,7 @@
         "conversationContext": null,
         "promt": "Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂",
         "model": null,
-        "temperature": "0.7"
+        "temperature": null
       },
       {
         "radek": 2,
@@ -62,7 +62,7 @@
         "conversationContext": null,
         "promt": "Hádám, že ty palačinky budu muset sníst sám. 🤔",
         "model": null,
-        "temperature": "0.9"
+        "temperature": null
       },
       {
         "radek": 3,
