@@ -34,7 +34,7 @@
         "typ": "fix",
         "conversationContext": null,
         "promt": "Připravená na parťáka na výlety, sport a trochu lenošení, co umí ty nejlepší palačinky pod sluncem? 🙂",
-        "model": "gpt-4-turbo",
+        "model": null,
         "temperature": "0.7"
       },
       {
