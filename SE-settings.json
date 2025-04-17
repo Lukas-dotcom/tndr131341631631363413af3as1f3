@@ -61,7 +61,7 @@
         "typ": "fix",
         "conversationContext": null,
         "promt": "Hádám, že ty palačinky budu muset sníst sám. 🤔",
-        "model": "gpt-4o",
+        "model": null,
         "temperature": "0.9"
       },
       {
